@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
+  <store_name>Slow Down & Peruse</store_name>
   <foods>
     <food>
       <title>Apple</title>
       <price>1.89</price>
       <is_fruit>true</is_fruit>
+      <images>
+        <image>https://www.sagefruit.com/wp-content/uploads/2016/08/Gala-300x300.png</image>
+        <image>https://www.sagefruit.com/wp-content/uploads/2016/08/apple-grannysmith-350-x-350-300x300.png</image>
+        <image>https://www.sagefruit.com/wp-content/uploads/2016/08/breeze2-300x300.png</image>
+      </images>
+      <description>These apples are nutritious! Granny Smith, Gala, and Golden Delicious!</description>
+    </food>
+    <food>
+      <title>Broccoli</title>
+      <price>3.25</price>
+      <is_fruit>false</is_fruit>
+      <images>
+        <image>https://media.self.com/photos/57d8cd3b24fe9dae32833035/master/pass/BroccoliSuperfood-300.jpg</image>
+      </images>
+      <description>Steamed, blanched, or raw? Broccoli gives you necessary fiber any way you eat it.</description>
+    </food>
+    <food>
+      <title>Banana</title>
+      <price>0.62</price>
+      <is_fruit>true</is_fruit>
+      <images>
+        <image>https://www.woolerwheel.co.uk/wp-content/uploads/2015/03/Banana-1--300x300.jpg</image>
+      </images>
+      <description>Bananas go great in smoothies, cereal, and oatmeal. Truly, one of the most versatile foods!</description>
+    </food>
+    <food>
+      <title>Orange</title>
+      <price>1.45</price>
+      <is_fruit>true</is_fruit>
+      <images>
+        <image>https://www.wcrf-uk.org/wp-content/uploads/2021/06/Orange_A-Z-Fruit19-300x300.jpg</image>
+        <image>https://producemadesimple.ca/wp-content/uploads/2015/01/clementine-web-300x300.jpg</image>
+      </images>
+      <description>These oranges are packed with necessary vitamins!</description>
     </food>
   </foods>
