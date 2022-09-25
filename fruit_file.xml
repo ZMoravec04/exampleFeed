@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<store>
   <store_name>Slow Down &amp; Peruse</store_name>
   <foods>
     <food>
@@ -41,3 +42,4 @@
       <description>These oranges are packed with necessary vitamins!</description>
     </food>
   </foods>
+</store>
