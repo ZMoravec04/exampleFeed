@@ -35,7 +35,7 @@
       <title>Orange</title>
       <price>1.45</price>
       <is_fruit>true</is_fruit>
-      <images>
+      <images type="array">
         <image>https://www.wcrf-uk.org/wp-content/uploads/2021/06/Orange_A-Z-Fruit19-300x300.jpg</image>
         <image>https://producemadesimple.ca/wp-content/uploads/2015/01/clementine-web-300x300.jpg</image>
       </images>
