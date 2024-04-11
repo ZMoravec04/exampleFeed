@@ -20,7 +20,8 @@
         <image>https://media.self.com/photos/57d8cd3b24fe9dae32833035/master/pass/BroccoliSuperfood-300.jpg</image>
       </images>
       <description>Steamed, blanched, or raw? Broccoli gives you necessary fiber any way you eat it.</description>
-
+  </foods>
+  <foods>
       <title>Banana</title>
       <price>0.62</price>
       <is_fruit>true</is_fruit>
